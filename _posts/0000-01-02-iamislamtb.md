@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"impossible"
+"impossible..."
 Use the left arrow to go back!
